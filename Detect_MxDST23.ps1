@@ -17,6 +17,9 @@
 Usage:
     Deploy this script as Detection script via Intune Proactive Remediation.
 
+To do:
+    Verify that revision number is being compared as number and not as string.
+
 #>
 
 
