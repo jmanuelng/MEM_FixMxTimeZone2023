@@ -7,7 +7,7 @@
     This script disables DST for Time Zone ID "Central Standard Time (Mexico)" using tzutil
 
 Usage:
-    Deploy this script as Remediation script via Intune Proactive Remediation.
+    Deploy this script as Remediation script via Microsoft Intune Proactive Remediation.
 
 #>
 
